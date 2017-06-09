@@ -41,5 +41,5 @@ dependencies {
     compile 'com.trello.rxlifecycle2:rxlifecycle-android:2.1.0'
     compile 'com.trello.rxlifecycle2:rxlifecycle-components:2.1.0'
 
-    compile 'com.github.ppakko1:RxEventBus:1.0.0'
+    compile 'com.github.ppakko1:RxEventBus:1.0.1'
 }
